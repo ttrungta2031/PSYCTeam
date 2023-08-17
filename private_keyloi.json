@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "psychologicalcounseling-28efa",
+  "private_key_id": "1b849ea2330eb5482f6c5b667436e6277eff6474",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCjDxLHtwZz5Sqd\nQKbPTrIhpndK2+sfGqRrIriCeHlLVLOk+qUQmrMkudHrD6DnnVgtD1AnuEbGYya6\nZAi13378K7ODpl8TVIpAFrNhLTdblAKSUt2OghvUeUEh9N0QN1+IArouhRIvqydF\nqIZtp0Iq62pP4/rsVZSQ6LT8nLzPL66H3Lv/ufF00kaO5zLnGQMiq/8byqTEoTMd\ng7nXeYQZpd9rYiTJxnlDye0R8BiyGRG2GArZjo/+YmHGW1caD2OK9y1x33dZYN3F\nHG2QTS16Dowf8P8+HeLeLDqJiWHSOwlf1oC823ihAz3oMRyveX25QGdTpqopdG9t\nVO3KiQknAgMBAAECggEABGU9WhaAgB5fy8tkRTRXmL9ZNA+qfPr6DsDp2gKEGRJk\nFa9sW9vFh/AvHlq/OV8hc0Y7N+nLT1h5ElUD0C+kamYoomH2XrEeE3umQ4ISb0+h\nRtfyRv/MJMzwVKCjEOd6UAyPIqFZUbK6maYD93t4TQ6cb1AoDSwlaTAMtJABzGfv\nTtTsh9Tpq480eN43jL5o8SI+m/uvT6yuHcsHxfgLcrWg7y9ln7q0tZJNNX5lwHMf\nyhiXkdIQsCUjiA3WeiVa1NsV1YvT7r5rqDBUKXv+P/vfseuidlY1FTSAOzBJ5Au7\nfj6oke/BF4SezV1A+BhiYxBPN/h+shKF9SVcFg04KQKBgQDf8SbLge6LX5pvQebJ\ngpAMHXDZrGIILvHUWWa+IBh+Vuj6/wxD3AIKlOcfHTgzCWkq97En4IkWLOY5oiS+\nTQM2llFrfdDqgMoR4NYdSLtCmWeJyYcDTfw7V/LJ+FcghMmE6JwGoeTzE+GKgm1a\nENvUaLVmGbj4YNj1q98I77whkwKBgQC6ZrnF6R7RyV7G9+FT33nEza2Hdyoqkae7\nx/3FtIiWfmH+iJxECnNq97GzBP3uY4SeQf00bixbKNZFSvFEWSU4veJfyQ4PKtiA\nFRI9oG3Lea8NTSUSKnIR/5YDJ2CnWTIxisTgvuz3gHlgYWwpOtdsS8q11V0+OQmZ\n+SbHroUGnQKBgHneUX90cS211GRxl7fX7q45I13CGwNbEM2/7VLQQqQWhel5/OG9\nC/tYN0LOcvQLTglNDEKoRdIkkxGQNLC/Vl1RhnOZ36SOe+ko0zzShN3kf90TJ/9b\nZEWjQgQ5uqh+uvAyah6N4fuKuTXYbswR2qAIb5dlriy0/70KUHEbjeUzAoGAch8K\nhfzf/ZjIChEhR3R+3Nr/7vwqOL3Mb89Vs4GAToM6A9gntBCh8U+M4AmiXh1XyHym\nRT9esMEjznC/nhTmEQNQYUx66xZUTraX4FskXXs2jXI5zBFonVRZx7yIFG0rqeFI\nAEFkW3Ow3C1JR0TbN1Z/2Su0VrAdDMPZ1k8m6pECgYAp5w2VMQayuGsxXR5VZEKT\ntvsDQwwxgYOQq4YOGVPaxYFifxePGlbb08MFxCRhi1YH6iOtCHtQVChSB+eQ4KyN\nDkrDXZU+4W8cmg4jyEVVn4XTJgwbNvq0EDiwmdUNue/8Xe2j7Wv/m5sZHQIx8IPA\nqAF4fpAxzpLg+C5y94Mfhw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ei5dw@psychologicalcounseling-28efa.iam.gserviceaccount.com",
+  "client_id": "108736152053030840715",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ei5dw%40psychologicalcounseling-28efa.iam.gserviceaccount.com"
+}

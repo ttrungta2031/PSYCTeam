@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/psychologicalcouseling/databases/PsychologicalCouseling",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:Bookings3Database",
+      "dynamicId": null
+    }
+  }
+}
